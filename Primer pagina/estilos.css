@@ -1,0 +1,66 @@
+body {
+    font-weight:400; 
+    margin: 0;
+    padding:0;
+    background-image:url(https://img.bekiabelleza.com/articulos/portada/72000/72923.jpg); 
+    background-attachment: fixed; 
+   
+    
+  }
+ 
+  header {
+    background-color: #f1b6cad3;
+    padding: 20px;
+    
+  }
+
+  div  {
+  
+  opacity: 0.5;
+
+
+  }
+
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #050505;
+    margin-right: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color:  #f1b6cad3;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  section h2 {
+    color: #801233;
+    margin-bottom: 10px;
+  }
+  
+  section p {
+    line-height: 1.5;
+  }
+
+  
+  
